@@ -78,3 +78,11 @@
   margin-right: 10px;
   cursor: pointer;
 }
+.color-select{
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+.color-select p{
+  width: 75px;
+}
